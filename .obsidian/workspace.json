@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "fa1233a7688227e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ff6d892218df2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d234992c4f462e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Privilege Escalation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Privilege Escalation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66bb737502538807",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a295bfc43a7162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e67e34d2617751",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e1862cc1c1b1015",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97d80ec2b5e78c98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a4bc3cfc04ac8323",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.67250061035156
+  },
+  "right": {
+    "id": "40c5b951f52b1d94",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e42f8c7a99ff0ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38574ccce918e81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Host Enumeration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8adfb36de16799c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Host Enumeration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ad8338e003af57ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f334550b52cbfa79",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c690d5cc31cfc146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Host Enumeration.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a4bc3cfc04ac8323",
+  "lastOpenFiles": [
+    "Tags",
+    "Untitled 21.md",
+    "Windows Privilege Escalation.md",
+    "Untitled 20.md",
+    "Untitled 19.md",
+    "Untitled 18.md",
+    "Linux Privilege Escalation.md",
+    "XSLT Injection.md",
+    "SSTI.md",
+    "Server-Side Request Forgery (SSRF).md",
+    "XML External Entity (XXE) Injection.md",
+    "Insecure Direct Object References (IDOR).md",
+    "HTTP Verb Tampering.md",
+    "Command Injections.md",
+    "File Upload.md",
+    "File Inclusions.md",
+    "Cross-Site Scripting (XSS).md",
+    "SQLMap.md",
+    "SQL Injection.md",
+    "Broken Authentication.md",
+    "Custom Wordlists.md",
+    "Brute Force Attacks.md",
+    "Parameter Fuzzing.md",
+    "Tags/Untitled.md",
+    "Domain Fuzzing.md",
+    "Web Fuzzing.md"
+  ]
+}
